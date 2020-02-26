@@ -17,3 +17,4 @@ docker build -t skin . && docker run --rm -it -p 5000:5000 skin
 You can find the Render deployment guide in https://course.fast.ai/deployment_render.html.
 
 Please use [Render thread inside fast.ai forum](https://forums.fast.ai/t/deployment-platform-render/33953) for questions and support.
+

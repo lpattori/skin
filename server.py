@@ -22,6 +22,8 @@ class Aprendizaje():
 
 csv.register_dialect('no_quotes', delimiter=',',
                      quoting=csv.QUOTE_ALL, skipinitialspace=True)
+# Google Drive: Use this link generator: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+# Others: Use this link generator: https://syncwithtech.blogspot.com/p/direct-download-link-generator.html
 csv_file_url = ('https://onedrive.live.com/download?'
                 'cid=27B3CFFF6EE897C2&resid=27B3CFFF6EE897C2%2129012&authkey=ADwRhR2YnNgN6V0')
 csv_file_name = 'parametros.csv'
